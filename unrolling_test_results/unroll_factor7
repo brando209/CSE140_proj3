@@ -1,0 +1,16 @@
+32 by 32 matrix with strip size 32 	 0.528604 Gflop/s
+32 by 32 matrix with strip size 43 	 0.529435 Gflop/s
+32 by 32 matrix with strip size 58 	 2.24439 Gflop/s
+32 by 32 matrix with strip size 78 	 2.24792 Gflop/s
+43 by 43 matrix with strip size 32 	 2.13255 Gflop/s
+43 by 43 matrix with strip size 43 	 2.12335 Gflop/s
+43 by 43 matrix with strip size 58 	 2.24163 Gflop/s
+43 by 43 matrix with strip size 78 	 2.23996 Gflop/s
+58 by 58 matrix with strip size 32 	 2.12734 Gflop/s
+58 by 58 matrix with strip size 43 	 2.13233 Gflop/s
+58 by 58 matrix with strip size 58 	 2.23051 Gflop/s
+58 by 58 matrix with strip size 78 	 2.257 Gflop/s
+78 by 78 matrix with strip size 32 	 2.1517 Gflop/s
+78 by 78 matrix with strip size 43 	 2.10275 Gflop/s
+78 by 78 matrix with strip size 58 	 2.22905 Gflop/s
+78 by 78 matrix with strip size 78 	 2.25183 Gflop/s
